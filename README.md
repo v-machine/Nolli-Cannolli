@@ -6,16 +6,16 @@ The model creates images that hybridize the urban fabric from any city and can b
 
 ## Milestones:
 
--[x] 3,400 Nolli Map Dataset Generated (ArcGIS)
+- [x] 3,400 Nolli Map Dataset Generated (ArcGIS)
 
--[x] Early LLM Nolli Description/Labeling (Manual/Claude)
+- [x] Early LLM Nolli Description/Labeling (Manual/Claude)
 
--[x] Lora, CNN+LLM, Dreambooth fine-tuning explored
+- [x] Lora, CNN+LLM, Dreambooth fine-tuning explored
 
--[x] Fine-tuned 2 Stable Diffusion v2 Models
+- [x] Fine-tuned 2 Stable Diffusion v2 Models
 
--[x] Bitmaps to 3D Forms in Grasshopper C#
+- [x] Bitmaps to 3D Forms in Grasshopper C#
 
--[x] Shape Diver UI
+- [x] Shape Diver UI
 
--[x] Presentation Deck
+- [x] Presentation Deck
